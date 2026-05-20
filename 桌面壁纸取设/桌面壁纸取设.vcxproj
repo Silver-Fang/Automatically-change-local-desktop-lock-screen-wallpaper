@@ -16,11 +16,12 @@
     <ProjectGuid>{2D291CB9-9DF0-4871-BA48-A769711AE6BC}</ProjectGuid>
     <Keyword>NetCoreCProj</Keyword>
     <RootNamespace>桌面壁纸取设</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
     <ProjectName>桌面壁纸取设</ProjectName>
     <RuntimeIdentifiers>win-x64</RuntimeIdentifiers>
-    <WindowsTargetPlatformMinVersion>10.0.26100.0</WindowsTargetPlatformMinVersion>
-    <TargetFramework>net9.0</TargetFramework>
+    <WindowsTargetPlatformMinVersion>10.0.22621.0</WindowsTargetPlatformMinVersion>
+    <TargetFramework>net10.0</TargetFramework>
+    <MSVCPreviewEnabled>true</MSVCPreviewEnabled>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
